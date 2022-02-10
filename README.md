@@ -18,7 +18,9 @@
 <h2>नमस्ते (Namaste)🙏🏻!</h2>
   
 [![](https://img.shields.io/badge/LinkedIn-SineshKumar-blue)](https://www.linkedin.com/in/sineshkumar/)
+[![](https://img.shields.io/badge/Github-SineshX-white)](https://github.com/SineshX/)
 [![](https://img.shields.io/badge/Gmail-SineshKumaRR@gmail.com-red)](mailto:sineshkumarr@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-MySite-black?style=flat-squarelink=https://SineshX.github.io/)](https://SineshX.github.io/)
 
 ## This is : Sinesh Kumar 
 <!-- - ⬆ **Level - 23+** -->
