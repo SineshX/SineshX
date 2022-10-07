@@ -21,7 +21,7 @@
 [![](https://img.shields.io/badge/Gmail-SineshKumaRR@gmail.com-red)](mailto:sineshkumarr@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-SineshX.github.io-black?style=flat-squarelink=https://SineshX.github.io/)](https://SineshX.github.io/)
 
-## This is : Sinesh Kumar 
+## This is : [Sinesh Kumar](https://Sineshx.com/)
 <!-- - ⬆ **Level - 23+** -->
 <!-- - ➕ **New Skills Unlocked - JS, React** -->
 - 🌱 Loves C/C++, Python, Javascript, C# Cloud && Music
@@ -47,14 +47,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 
-<p align="center">
-<a href="https://github.com/SineshX">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sineshx&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sineshx&layout=compact&langs_count=8&hide=java,r&theme=react "/>
-</a>
-</p>
-<p align="center">
+<!-- <p align="center"> -->
+
+<!--  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sineshx&show_icons=true&locale=en&layout=compact" alt="sineshx" width="350" /> </p> -->
+
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sineshx&show_icons=true&locale=en&layout=compact" alt="sineshx" />
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sineshx&layout=compact" alt="sineshx"  />
+  </p>
+<!-- </p> -->
   
+<p align="center">
   <img src="https://media.giphy.com/media/ZG5VcvKUr1SwdN0djU/giphy.gif" width="350" />
 </p>
 <!-- ⭐️ From [Sinesh Kumar](https://github.com/SineshX)
